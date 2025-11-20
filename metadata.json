@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BeeB",
+  "description": "BeeB - Connect & Love. L'application de rencontre vocale.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
